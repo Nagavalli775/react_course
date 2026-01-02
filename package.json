@@ -2,7 +2,6 @@
   "name": "react_course",
   "version": "1.0.0",
   "description": "react course from namaste dev",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +20,9 @@
   "homepage": "https://github.com/Nagavalli775/react_course#readme",
   "devDependencies": {
     "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   }
 }
